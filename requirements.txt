@@ -1,0 +1,10 @@
+opencv-python
+numpy
+mediapipe
+torch
+scipy
+plyer
+pystray
+pillow
+pygrabber
+comtypes
