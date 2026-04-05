@@ -22,7 +22,6 @@ Go to releases and download the latest zip file. Extract the zip file.
 
 ## Running the App
 To start the background service, run the exe file in the extracted zip file.
-```
 This will launch the app completely invisibly in your Windows background. A small blue "eye" icon will appear in your System Tray (hidden icons in the bottom right corner of your taskbar).
 
 **To configure settings:**
