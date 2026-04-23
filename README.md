@@ -1,6 +1,6 @@
 # Fatigue Checker
 
-Fatigue Guard is an ultra-lightweight, AI-driven background service designed to silently monitor your face and trigger native Windows alerts when you exhibit strong symptoms of drowsiness or micro-sleeps. 
+Fatigue Checker is an ultra-lightweight, AI-driven background service designed to silently monitor your face and trigger native Windows alerts when you exhibit strong symptoms of drowsiness or micro-sleeps. 
 
 It was built using the UTARLDD dataset and uses MediaPipe alongside a Bidirectional PyTorch LSTM.
 
